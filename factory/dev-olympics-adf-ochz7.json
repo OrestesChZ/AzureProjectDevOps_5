@@ -1,0 +1,9 @@
+{
+	"name": "dev-olympics-adf-ochz7",
+	"location": "brazilsouth",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "59ac4232-6364-46d7-9d0c-847e8a27375c",
+		"tenantId": "361c71e5-e564-4d15-b1a6-284d5d35bb02"
+	}
+}
