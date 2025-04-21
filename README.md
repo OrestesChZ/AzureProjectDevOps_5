@@ -22,3 +22,5 @@ This project covers modern tools and best practices for building end-to-end data
 - ⚙️ **CI/CD Workflows** using **YAML** and **Azure DevOps**
 - 🔄 **Spark Structured Streaming** and **Orchestration with Databricks Workflows**
 
+![image](https://github.com/user-attachments/assets/da7d56f7-e963-497c-909a-ec4c97912d8a)
+
